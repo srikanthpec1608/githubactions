@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 env:
-  DAY_OF_WEEK: Sunday
+  DAY_OF_WEEK: Munday
   testvar: value-1
 
 jobs:
